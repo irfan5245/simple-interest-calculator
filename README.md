@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+[# Simple Interest Calculator
 
 This project calculates simple interest based on principal, rate, and time.
 
@@ -23,3 +23,4 @@ Time = 2
 
 Output:
 Simple Interest = 100
+](https://github.com/irfan5245/simple-interest-calculator.git)
